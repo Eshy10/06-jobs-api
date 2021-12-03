@@ -55,7 +55,7 @@ Email Validation Regex
 - xss-clean
 - express-rate-limit
 
-Swagger UI
+#### Swagger UI Methods parameters (Apimatic to export yaml file)
 
 ```yaml
 /jobs/{id}:
@@ -67,5 +67,5 @@ Swagger UI
       required: true
       description: the job id
 ```
-# Live link
+#### Live link
 [Heroku link](https://jobs-api-e1002.herokuapp.com/api-docs/)
